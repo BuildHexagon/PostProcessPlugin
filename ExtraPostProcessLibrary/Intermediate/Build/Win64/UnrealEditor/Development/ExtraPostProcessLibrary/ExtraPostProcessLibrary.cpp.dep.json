@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\unreal projects\\pp_project\\plugins\\extrapostprocesslibrary\\source\\extrapostprocesslibrary\\private\\extrapostprocesslibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\unreal projects\\pp_project\\intermediate\\build\\win64\\pp_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\unreal projects\\pp_project\\plugins\\extrapostprocesslibrary\\intermediate\\build\\win64\\unrealeditor\\development\\extrapostprocesslibrary\\definitions.extrapostprocesslibrary.h",
+            "d:\\documents\\unreal projects\\pp_project\\plugins\\extrapostprocesslibrary\\source\\extrapostprocesslibrary\\public\\extrapostprocesslibrary.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "h:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

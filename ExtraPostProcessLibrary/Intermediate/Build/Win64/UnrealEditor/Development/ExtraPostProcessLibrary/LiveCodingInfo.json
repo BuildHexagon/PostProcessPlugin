@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ExtraPostProcessLibrary.cpp.obj": [
+			"ExtraPostProcessLibrary.init.gen.cpp.obj",
+			"ExtraPPSubsystem.gen.cpp.obj",
+			"ExtraPostProcessLibrary.cpp.obj",
+			"ExtraPPExtension.cpp.obj",
+			"ExtraPPRendering.cpp.obj",
+			"ExtraPPSubsystem.cpp.obj"
+		]
+	}
+}

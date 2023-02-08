@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ExtraPostProcessLibrary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\PP_Project\Intermediate\Build\Win64\PP_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\PP_Project\Plugins\ExtraPostProcessLibrary\Intermediate\Build\Win64\UnrealEditor\Development\ExtraPostProcessLibrary\ExtraPostProcessLibrary.cpp.obj"
+"D:\Documents\Unreal Projects\PP_Project\Plugins\ExtraPostProcessLibrary\Intermediate\Build\Win64\UnrealEditor\Development\ExtraPostProcessLibrary\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\PP_Project\Plugins\ExtraPostProcessLibrary\Intermediate\Build\Win64\UnrealEditor\Development\ExtraPostProcessLibrary\UnrealEditor-ExtraPostProcessLibrary.lib"
